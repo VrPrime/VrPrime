@@ -1,6 +1,6 @@
 # VRPRIME SOLUTIONS :computer:
 
-Bem-vindo ao repositório oficial da **VRPRIME SOLUTIONS** no GitHub! Somos uma equipe dedicada a desenvolver soluções inovadoras, e aqui você encontrará uma visão geral dos nossos principais projetos.
+Bem-vindo ao repositório oficial da **V.R PRIME SOLUTIONS** no GitHub! Somos uma equipe dedicada a desenvolver soluções inovadoras, e aqui você encontrará uma visão geral dos nossos principais projetos.
 
 ## Projetos :rocket:
 
@@ -13,6 +13,9 @@ Nossa ferramenta automatizada para otimizar a experiência do Aviator, garantind
 ### Bot de Mines
 Minimize riscos e maximize recompensas com nosso bot otimizado para o jogo Mines.
 
+### DashBoard de Apps
+Nossa ferramenta automatizada para otimizar a experiência na criação do app para seu cassino, garantindo operações em quantidade e mais precisas.
+
 ### Outros Bots
 Estamos constantemente desenvolvendo novos bots e ferramentas para otimizar tarefas variadas e melhorar a eficiência. Fique de olho em nossas atualizações!
 
@@ -22,7 +25,7 @@ Estamos sempre abertos a colaborações. Se você tiver sugestões, melhorias ou
 
 ## Contato :mailbox_with_mail:
 
-Para mais informações, entre em contato conosco através do [nosso site](#) ou envie-nos um e-mail: [email@vrprimesolutions.com](mailto:email@vrprimesolutions.com).
+Para mais informações, entre em contato conosco através do [nosso site](#) ou envie-nos um e-mail: [ceo@vrprime.com.br](mailto:cep@vrprime.com.br).
 
 ## Licença :scroll:
 
