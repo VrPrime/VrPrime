@@ -25,7 +25,7 @@ Estamos sempre abertos a colaborações. Se você tiver sugestões, melhorias ou
 
 ## Contato :mailbox_with_mail:
 
-Para mais informações, entre em contato conosco através do [nosso site](#) ou envie-nos um e-mail: [ceo@vrprime.com.br](mailto:cep@vrprime.com.br).
+Para mais informações, entre em contato conosco através do [Whatsapp](https://wa.me/+5521969833616) ou envie-nos um e-mail: [ceo@vrprime.com.br](mailto:cep@vrprime.com.br).
 
 ## Licença :scroll:
 
